@@ -1,10 +1,10 @@
 <!-- ⭐️ See original template from [@Thaiane](https://github.com/Thaiane) -->
 
 <h2> Hi, I'm Caleb Barger! <img src="https://i.pinimg.com/originals/e5/93/ab/e593ab0589d5f1b389e4dfbcce2bce20.gif" width="50"></h2>
-<img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230">
+<img align='right' src="https://media1.giphy.com/media/1YeNJK6FptDdq1q59K/giphy.gif?cid=ecf05e47sgnu02482hzuy75rgwe5rnu7ks5l53aklksqw7s2&rid=giphy.gif" width="230">
 <!-- <p><em>Software Enginner at <a href="http://www.unb.br">University of Brasilia</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>Developer Consultant at <a href="https://www.thoughtworks.com">ThoughtWorks</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p> -->
-<p><em>Software Developer <img src="https://i.gifer.com/origin/91/91accf0365e37d105841e05a21ba54db_w200.gif" width="30"></em></p>
+<p><em>Software Developer <img src="https://media4.giphy.com/media/8ynOqCkWDpf5C/giphy.gif?cid=ecf05e471udl6q0fy4alat80q4usia9cqlqcfvlcpvnxvo5h&rid=giphy.gif" width="30"></em></p>
 
 [![Twitter: BargerCaleb](https://img.shields.io/twitter/follow/BargerCaleb?style=social)](https://twitter.com/BargerCaleb)
 [![Linkedin: calebbarger](https://img.shields.io/badge/-calebbarger-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/calebbarger/)](https://www.linkedin.com/in/calebbarger/)
@@ -14,17 +14,16 @@
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
 ```javascript
-const thai = {
-  pronouns: "she" | "her",
-  code: [Javascript, Typescript, HTML, CSS, Ruby, Python, Java],
-  tools: [React, Redux, Node, Storybook, Styled-Components, Jest, Docker],
+const caleb = {
+  code: [Javascript, HTML, CSS, Python, Java, SQL],
+  tools: [React, Redux, Spring, AWS, Jest, Docker],
   architecture: ["microservices", "event-driven", "design system pattern"],
   techCommunities: {
                         coorganizer: "AfroPython",
                         speaker: "Latinity",
                         mentor: "RailsGirls POA"
                       },
- challenge: "I am doing the #100DaysOfCode challenge focused on react and typescript"
+ challenge: "I am doing the #100DaysOfCode challenge focused on react and spring"
 }
 ```
 
