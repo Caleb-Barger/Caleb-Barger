@@ -15,9 +15,11 @@
 
 ```javascript
 const caleb = {
-  code: [Javascript, HTML, CSS, Python, Java, SQL],
-  tools: [React, Redux, Spring, AWS, Jest, Docker],
-  architecture: ["microservices", "event-driven", "design system pattern"],
+  clientSide: [JS, React, HTML5, CSS3, Bootstrap, Material Design]
+  serverSide: [Java, Spring, PostgreSQL, OAUTH]
+  containerization: Docker,
+  wevServces: [RESTful, WebAPI, JSON, XML],
+  architecture: ["GOF", "microservices", "event-driven", "design system pattern"],
   challenge: "I am doing the #100DaysOfCode challenge focused on react and spring"
 }
 ```
