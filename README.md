@@ -1,7 +1,7 @@
 <!-- ⭐️ See original template from [@Thaiane](https://github.com/Thaiane) -->
 
 <h2> Hi, I'm Caleb Barger! <img src="https://i.pinimg.com/originals/e5/93/ab/e593ab0589d5f1b389e4dfbcce2bce20.gif" width="50"></h2>
-<img align='right' src="https://media1.giphy.com/media/1YeNJK6FptDdq1q59K/giphy.gif?cid=ecf05e47sgnu02482hzuy75rgwe5rnu7ks5l53aklksqw7s2&rid=giphy.gif" width="230">
+<img align='right' src="https://media0.giphy.com/media/eNAsjO55tPbgaor7ma/200w.webp" width="230">
 <!-- <p><em>Software Enginner at <a href="http://www.unb.br">University of Brasilia</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>Developer Consultant at <a href="https://www.thoughtworks.com">ThoughtWorks</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p> -->
 <p><em>Software Developer <img src="https://media4.giphy.com/media/8ynOqCkWDpf5C/giphy.gif?cid=ecf05e471udl6q0fy4alat80q4usia9cqlqcfvlcpvnxvo5h&rid=giphy.gif" width="30"></em></p>
