@@ -1,17 +1,4 @@
-<!--
-**Caleb-Barger/Caleb-Barger** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!-- ⭐️ See original template from [@Thaiane](https://github.com/Thaiane) -->
 
 <h2> Hi, I'm Caleb Barger! <img src="https://i.pinimg.com/originals/e5/93/ab/e593ab0589d5f1b389e4dfbcce2bce20.gif" width="50"></h2>
 <img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230">
@@ -19,9 +6,9 @@ Here are some ideas to get you started:
 </em></p> -->
 <p><em>Software Developer <img src="https://i.gifer.com/origin/91/91accf0365e37d105841e05a21ba54db_w200.gif" width="30"></em></p>
 
-[![Twitter: ThaiiBraga](https://img.shields.io/twitter/follow/ThaiiBraga?style=social)](https://twitter.com/ThaiiBraga)
-[![Linkedin: thaianebraga](https://img.shields.io/badge/-thaianebraga-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thaianebraga/)](https://www.linkedin.com/in/thaianebraga/)
-[![GitHub Thaiane](https://img.shields.io/github/followers/thaiane?label=follow&style=social)](https://github.com/Thaiane)
+[![Twitter: BargerCaleb](https://img.shields.io/twitter/follow/BargerCaleb?style=social)](https://twitter.com/BargerCaleb)
+[![Linkedin: calebbarger](https://img.shields.io/badge/-calebbarger-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/calebbarger/)](https://www.linkedin.com/in/calebbarger/)
+[![GitHub Caleb](https://img.shields.io/github/followers/Caleb-Barger?label=follow&style=social)](https://github.com/Caleb-Barger)
 
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
@@ -45,4 +32,4 @@ const thai = {
 
 ---
 
-⭐️ From [@Thaiane](https://github.com/Thaiane)
+
