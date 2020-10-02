@@ -22,12 +22,12 @@ On the less technical end of things I love distance running, participating in ma
 
 ```javascript
 const caleb = {
-  intrests: ["Go", "Elixir", "Rust", "React.js", "Python", "Spring"] 
-  clientSide: ["React.js", "HTML5", "CSS3", "Bootstrap", "Material Design"]
-  serverSide: ["Java", "Spring", "PostgreSQL", "OAUTH"]
+  intrests: ["Go", "Elixir", "Rust", "React.js", "Python", "Spring"],
+  clientSide: ["React.js", "HTML5", "CSS3", "Bootstrap", "Material Design"],
+  serverSide: ["Java", "Spring", "PostgreSQL", "OAUTH"],
   webServces: ["RESTful", "WebAPI", "JSON", "XML"],
   architecture: ["GOF", "microservices", "event-driven", "design system pattern"],
-  challenge: "I am doing the #100DaysOfCode challenge focused on react and spring"
+  challenge: "I am doing the #100DaysOfCode challenge focused on react and spring",
   currentProject: "Apollo"
 }
 ```
