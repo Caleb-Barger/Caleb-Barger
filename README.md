@@ -15,12 +15,13 @@
 
 ```javascript
 const caleb = {
-  clientSide: [JS, React, HTML5, CSS3, Bootstrap, Material Design]
-  serverSide: [Java, Spring, PostgreSQL, OAUTH]
-  containerization: Docker,
-  webServces: [RESTful, WebAPI, JSON, XML],
+  intrests: ["Go", "Elixir", "Rust", "React.js", "Python", "Spring"] 
+  clientSide: ["React.js", "HTML5", "CSS3", "Bootstrap", "Material Design"]
+  serverSide: ["Java", "Spring", "PostgreSQL", "OAUTH"]
+  webServces: ["RESTful", "WebAPI", "JSON", "XML"],
   architecture: ["GOF", "microservices", "event-driven", "design system pattern"],
   challenge: "I am doing the #100DaysOfCode challenge focused on react and spring"
+  currentProject: "Apollo"
 }
 ```
 
