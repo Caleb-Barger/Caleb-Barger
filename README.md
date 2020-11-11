@@ -6,7 +6,7 @@
 <!-- <p><em>Software Engineer <img src="https://media4.giphy.com/media/8ynOqCkWDpf5C/giphy.gif?cid=ecf05e471udl6q0fy4alat80q4usia9cqlqcfvlcpvnxvo5h&rid=giphy.gif" width="30"></br></br> -->
 I'm currently pursing a rewarding, positive, and challenging career in software development. By taking a creative approach to to solving problems, contributing meaningfully to teams and striving to deliver a quality product makes me a valuable asset to your team!
 
-Recently I have been writing applications with React.js + Java as a full-stack developer. ( see projects below for more info )... I really enjoy looking for new technologies to learn and roll into my existing development flow. 
+Recently I have been writing applications with ReactJS & Java as a full-stack developer. I really enjoy learning new technologies to roll into my existing development proccess. 
 
 As of right now I am extremely interested in distributed applications with Elixir, Rust's implementation of memory safety, and go's concurrency model. On the less technical end of things I am a distance runner.
 </em></p>
