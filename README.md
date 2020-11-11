@@ -4,7 +4,7 @@
 <img align='right' src="https://media0.giphy.com/media/eNAsjO55tPbgaor7ma/200w.webp" width="230">
 
 <!-- <p><em>Software Engineer <img src="https://media4.giphy.com/media/8ynOqCkWDpf5C/giphy.gif?cid=ecf05e471udl6q0fy4alat80q4usia9cqlqcfvlcpvnxvo5h&rid=giphy.gif" width="30"></br></br> -->
-Currently pursing a rewarding, positive, and challenging career in software development. By taking a creative approach to to solving problems, contributing meaningfully to teams and striving to deliver a quality product makes me a valuable asset to your team!
+I'm currently pursing a rewarding, positive, and challenging career in software development. By taking a creative approach to to solving problems, contributing meaningfully to teams and striving to deliver a quality product makes me a valuable asset to your team!
 
 Recently I have been writing applications with React.js + Java as a full-stack developer. ( see projects below for more info )... I really enjoy looking for new technologies to learn and roll into my existing development flow. 
 
