@@ -8,7 +8,7 @@
 
 Recently I have been writing applications with React.js + Java as a full-stack engineer. ( see projects below for more info )... I really enjoy looking for new technologies to learn and roll into my existing development flow. 
 
-As of right now I am extremely interested in distributed applications with Elixir, Rust's implementation of memory safety, and the stuff with concurrency that go is doing!
+As of right now I am extremely interested in distributed applications with Elixir, Rust's implementation of memory safety, and go's concurrency model.
 
 On the less technical end of things I love distance running, participating in marathons and other competitions. When I am not running or programming usually I can be found chatting with friends or playing games ( Spelunky 2 Just released :D FYI )
 </em></p>
