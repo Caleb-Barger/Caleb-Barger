@@ -27,8 +27,6 @@ const caleb = {
   serverSide: ["Java", "Spring", "PostgreSQL", "OAUTH"],
   webServices: ["RESTful", "WebAPI", "JSON", "XML"],
   architecture: ["GOF", "microservices", "event-driven", "design system pattern"],
-  challenge: "I am doing the #100DaysOfCode challenge focused on react and spring",
-  currentProject: "Apollo"
 }
 ```
 
